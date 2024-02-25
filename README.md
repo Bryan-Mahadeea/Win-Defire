@@ -8,7 +8,7 @@ Configure Firewall Rules Using Windows Defender Firewall
 
 ![Alt text](https://github.com/Bryan-Mahadeea/Win-Defire/blob/main/1.png)
 
-2. Click the Windows Start button. and then select Windows Security.
+2. Click on Firewall and Newtwork Protection.
 
 ![Alt text](https://github.com/Bryan-Mahadeea/Win-Defire/blob/main/2.png)
 
